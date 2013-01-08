@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="0" id="6343401" name="Colemak - Qwerty Command" maxout="1">
+<keyboard group="0" id="18000" name="Colemak - Qwerty Command" maxout="1">
   <layouts>
     <layout first="0" last="17" modifiers="commonModifiers" mapSet="ANSI" />
     <!-- TODO: Support other keyboards.
